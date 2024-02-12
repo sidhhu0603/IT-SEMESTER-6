@@ -20,20 +20,21 @@ In today's fast-paced world, people often struggle to find time to prepare meals
 4. Sufficient storage space for installing development tools and storing project files
 
 ## Table of Contents
-1. Introduction
-2. Problem Statement
-3. Software Requirements
-4. Hardware Requirements
-5. Installation Guide
-6. User Guide
-   - Registration/Login
-   - Browsing Food Items
-   - Placing Orders
-   - Tracking Delivery Status
-7. Admin Guide (if applicable)
-   - Managing Restaurants and Menus
-   - Handling Orders
-8. Contribution Guidelines
+1. [Introduction](#introduction)
+2. [Problem Statement](#problem-statement)
+3. [Software Requirements](#software-requirements)
+4. [Hardware Requirements](#hardware-requirements)
+5. [Installation Guide](#installation-guide)
+6. [User Guide](#user-guide)
+   - [Registration/Login](#registrationlogin)
+   - [Browsing Food Items](#browsing-food-items)
+   - [Placing Orders](#placing-orders)
+   - [Tracking Delivery Status](#tracking-delivery-status)
+7. [Admin Guide (if applicable)](#admin-guide-if-applicable)
+   - [Managing Restaurants and Menus](#managing-restaurants-and-menus)
+   - [Handling Orders](#handling-orders)
+8. [Contribution Guidelines](#contribution-guidelines)
+
 
 ## Installation Guide
 1. Clone the repository to your local machine.
